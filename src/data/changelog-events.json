@@ -1,6 +1,16 @@
 {
   "changeEvents": [
     {
+      "id": "concepts/sample-concept@79fd25a403945ebb82e4397ea3995b7d2e582b24",
+      "type": "removed",
+      "date": "2026-08-07T08:45:34-05:00",
+      "docKey": "concepts/sample-concept",
+      "routePath": "",
+      "section": "concepts",
+      "title": "Sample Concept",
+      "description": "A one-line definition of the sample concept. Quotable, plain, no rhetorical flourishes."
+    },
+    {
       "id": "concepts/sample-concept@014b58d9c9cf55d66c4d46c7255323dab7a7d294",
       "type": "new",
       "date": "2026-08-07T08:42:10-05:00",
