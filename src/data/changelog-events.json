@@ -1,29 +1,19 @@
 {
   "changeEvents": [
     {
-      "id": "reference/graphic-style@e04f661dbc5e3550aa78e17398ca1f0d7b16f4eb",
+      "id": "concepts/sample-concept@014b58d9c9cf55d66c4d46c7255323dab7a7d294",
       "type": "new",
-      "date": "2026-05-15T22:43:28-05:00",
-      "docKey": "reference/graphic-style",
-      "routePath": "/reference/graphic-style",
-      "section": "reference",
-      "title": "Graphic Style",
-      "description": "Visual conventions for illustrations and diagrams on this wiki. The default is comic-strip article summaries in the Supersuit Up family style."
-    },
-    {
-      "id": "concepts/sample-concept@4adacf5bb978736e994e7646544b6d67667cdc84",
-      "type": "new",
-      "date": "2026-05-15T10:42:05-05:00",
+      "date": "2026-08-07T08:42:10-05:00",
       "docKey": "concepts/sample-concept",
-      "routePath": "/concepts/sample-concept",
+      "routePath": "",
       "section": "concepts",
       "title": "Sample Concept",
       "description": "A one-line definition of the sample concept. Quotable, plain, no rhetorical flourishes."
     },
     {
-      "id": "reference/glossary@4adacf5bb978736e994e7646544b6d67667cdc84",
+      "id": "reference/glossary@014b58d9c9cf55d66c4d46c7255323dab7a7d294",
       "type": "new",
-      "date": "2026-05-15T10:42:05-05:00",
+      "date": "2026-08-07T08:42:10-05:00",
       "docKey": "reference/glossary",
       "routePath": "/reference/glossary",
       "section": "reference",
@@ -31,9 +21,19 @@
       "description": "One-line-per-term summary across the whole wiki."
     },
     {
-      "id": "reference/voice-rules@4adacf5bb978736e994e7646544b6d67667cdc84",
+      "id": "reference/graphic-style@014b58d9c9cf55d66c4d46c7255323dab7a7d294",
       "type": "new",
-      "date": "2026-05-15T10:42:05-05:00",
+      "date": "2026-08-07T08:42:10-05:00",
+      "docKey": "reference/graphic-style",
+      "routePath": "/reference/graphic-style",
+      "section": "reference",
+      "title": "Graphic Style",
+      "description": "Visual conventions for illustrations and diagrams on this wiki. The default is comic-strip article summaries in the Supersuit Up family style."
+    },
+    {
+      "id": "reference/voice-rules@014b58d9c9cf55d66c4d46c7255323dab7a7d294",
+      "type": "new",
+      "date": "2026-08-07T08:42:10-05:00",
       "docKey": "reference/voice-rules",
       "routePath": "/reference/voice-rules",
       "section": "reference",

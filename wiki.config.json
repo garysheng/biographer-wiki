@@ -1,22 +1,21 @@
 {
   "$schema": "./wiki.config.schema.json",
-  "title": "Template Wiki",
-  "tagline": "A Docusaurus wiki starter",
-  "url": "https://example.com",
-  "organizationName": "your-org",
-  "projectName": "your-wiki",
-  "copyright": "Template Wiki",
+  "title": "biographer.wiki",
+  "tagline": "Truths about agentic biography collection: the ontology and context that make a life story capturable.",
+  "url": "https://biographer.wiki",
+  "organizationName": "garysheng",
+  "projectName": "biographer-wiki",
+  "copyright": "biographer.wiki",
   "noindex": true,
-  "description": "Canonical reference for the topic this wiki covers.",
-  "intake_mode": "source-grounded",
+  "description": "A reference wiki on collecting a person's life story with AI agents: transcripts, characters, moments, a growing timeline, and the forms a biography projects into.",
+  "intake_mode": "authored-canon",
   "hero_register": {
     "mode": "local",
     "layout": "multipanel",
     "defaultPanels": 3,
-    "register": "",
+    "register": "Warm archival memoir register: cream paper, warm ink line, typewriter and handwritten-letter motifs, quiet and human.",
     "spec": "illustrations/SPEC.md",
     "refs": [],
-    "outputDir": "static/img/illustrations",
-    "text": true
+    "outputDir": "static/img/illustrations"
   }
 }
