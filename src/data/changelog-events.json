@@ -1,6 +1,76 @@
 {
   "changeEvents": [
     {
+      "id": "concepts/context-collection@716969013e28ee3ee74a1c4fc73c402f174d92c5",
+      "type": "new",
+      "date": "2026-08-07T09:00:40-05:00",
+      "docKey": "concepts/context-collection",
+      "routePath": "/concepts/context-collection",
+      "section": "concepts",
+      "title": "Context Collection",
+      "description": "The craft of agentic biography is collecting context, and the test is whether the agent actually reads its corpus before it speaks."
+    },
+    {
+      "id": "concepts/forms-are-projections@716969013e28ee3ee74a1c4fc73c402f174d92c5",
+      "type": "new",
+      "date": "2026-08-07T09:00:40-05:00",
+      "docKey": "concepts/forms-are-projections",
+      "routePath": "/concepts/forms-are-projections",
+      "section": "concepts",
+      "title": "Forms Are Projections",
+      "description": "A printed biography, a video tribute, a chapter: forms are rendered from the corpus and never stored inside it."
+    },
+    {
+      "id": "ontology/moments-and-the-timeline@716969013e28ee3ee74a1c4fc73c402f174d92c5",
+      "type": "new",
+      "date": "2026-08-07T09:00:40-05:00",
+      "docKey": "ontology/moments-and-the-timeline",
+      "routePath": "/ontology/moments-and-the-timeline",
+      "section": "ontology",
+      "title": "Moments and the Timeline",
+      "description": "A moment is a bounded thing that happened. The timeline is a generated index over moments. Neither is a transcript."
+    },
+    {
+      "id": "ontology/the-biographical-ontology@716969013e28ee3ee74a1c4fc73c402f174d92c5",
+      "type": "new",
+      "date": "2026-08-07T09:00:40-05:00",
+      "docKey": "ontology/the-biographical-ontology",
+      "routePath": "/ontology/the-biographical-ontology",
+      "section": "ontology",
+      "title": "The Biographical Ontology",
+      "description": "Six shapes hold a captured life: profile, transcripts, characters, moments, the timeline, and letters. Everything else is a projection."
+    },
+    {
+      "id": "ontology/transcripts@716969013e28ee3ee74a1c4fc73c402f174d92c5",
+      "type": "new",
+      "date": "2026-08-07T09:00:40-05:00",
+      "docKey": "ontology/transcripts",
+      "routePath": "/ontology/transcripts",
+      "section": "ontology",
+      "title": "Transcripts",
+      "description": "The append-only ground truth of a biography: the person's words verbatim, stamped to the minute, filed with the question that elicited them."
+    },
+    {
+      "id": "principles/dont-overengineer-the-ontology@716969013e28ee3ee74a1c4fc73c402f174d92c5",
+      "type": "new",
+      "date": "2026-08-07T09:00:40-05:00",
+      "docKey": "principles/dont-overengineer-the-ontology",
+      "routePath": "/principles/dont-overengineer-the-ontology",
+      "section": "principles",
+      "title": "Don't Overengineer the Ontology",
+      "description": "The ontology earns new shapes on the second instance, never the first. Six shapes cover a life; a taxonomy kills a collection."
+    },
+    {
+      "id": "principles/the-question-is-part-of-the-record@716969013e28ee3ee74a1c4fc73c402f174d92c5",
+      "type": "new",
+      "date": "2026-08-07T09:00:40-05:00",
+      "docKey": "principles/the-question-is-part-of-the-record",
+      "routePath": "/principles/the-question-is-part-of-the-record",
+      "section": "principles",
+      "title": "The Question Is Part of the Record",
+      "description": "Every transcript files the question that elicited it. An answer without its question is half a record."
+    },
+    {
       "id": "concepts/sample-concept@79fd25a403945ebb82e4397ea3995b7d2e582b24",
       "type": "removed",
       "date": "2026-08-07T08:45:34-05:00",
