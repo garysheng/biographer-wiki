@@ -1,0 +1,4 @@
+{
+  "_comment": "Images that predate the provenance gate. This list may only SHRINK: give an image a real .recipe.json and delete its line. Anything NOT in here must carry provenance or the build fails. Regenerate with `node scripts/check-image-provenance.mjs --accept`, and treat a diff that ADDS a line as the thing to explain in review.",
+  "baseline": []
+}
