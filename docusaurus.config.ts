@@ -48,6 +48,10 @@ const config: Config = {
     // hero gets a branded og:image card generated at build time. Brand tokens
     // come from the optional `og` block in wiki.config.json.
     ['./plugins/og-image-plugin', (wiki as { og?: Record<string, string> }).og ?? {}],
+    // A chrome-less, scriptless mirror of every page at /share-view/<route>/, which
+    // the edge serves for a one-page share address (/s/<sig>/<route>) on a gated
+    // wiki. Emitted on every build; only ever served through the middleware.
+    './plugins/share-view-plugin',
   ],
 
   presets: [

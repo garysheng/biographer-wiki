@@ -1,6 +1,16 @@
 {
   "changeEvents": [
     {
+      "id": "reference/glossary@d7bbb5497625817f8956986d32466ed8ae0f9316",
+      "type": "updated",
+      "date": "2026-08-29T02:42:53-04:00",
+      "docKey": "reference/glossary",
+      "routePath": "/reference/glossary",
+      "section": "reference",
+      "title": "Glossary",
+      "description": "One-line-per-term summary across the whole wiki."
+    },
+    {
       "id": "concepts/context-collection@716969013e28ee3ee74a1c4fc73c402f174d92c5",
       "type": "new",
       "date": "2026-08-07T09:00:40-05:00",
