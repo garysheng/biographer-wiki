@@ -1,5 +1,5 @@
 {
-  "$schema": "./wiki.config.schema.json",
+  "$schema": "./node_modules/@supersuit/docusaurus-preset-wiki/wiki.config.schema.json",
   "title": "biographer.wiki",
   "tagline": "Truths about agentic biography collection: the ontology and context that make a life story capturable.",
   "url": "https://biographer.wiki",
