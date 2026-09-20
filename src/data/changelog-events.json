@@ -130,5 +130,75 @@
       "title": "Voice Rules",
       "description": "Writing constraints every page is held to. Edit per wiki."
     }
-  ]
+  ],
+  "pageDates": {
+    "changelog": {
+      "updated": "2026-09-15T09:51:30-05:00",
+      "created": "2026-08-07T08:42:10-05:00"
+    },
+    "start-here/index": {
+      "updated": "2026-09-15T09:51:30-05:00",
+      "created": "2026-08-07T08:42:10-05:00"
+    },
+    "reference/glossary": {
+      "updated": "2026-08-29T02:42:53-04:00",
+      "created": "2026-08-07T08:42:10-05:00"
+    },
+    "concepts/context-collection": {
+      "updated": "2026-08-07T09:00:40-05:00",
+      "created": "2026-08-07T09:00:40-05:00"
+    },
+    "concepts/forms-are-projections": {
+      "updated": "2026-08-07T09:00:40-05:00",
+      "created": "2026-08-07T09:00:40-05:00"
+    },
+    "ontology/moments-and-the-timeline": {
+      "updated": "2026-08-07T09:00:40-05:00",
+      "created": "2026-08-07T09:00:40-05:00"
+    },
+    "ontology/the-biographical-ontology": {
+      "updated": "2026-08-07T09:00:40-05:00",
+      "created": "2026-08-07T09:00:40-05:00"
+    },
+    "ontology/transcripts": {
+      "updated": "2026-08-07T09:00:40-05:00",
+      "created": "2026-08-07T09:00:40-05:00"
+    },
+    "principles/dont-overengineer-the-ontology": {
+      "updated": "2026-08-07T09:00:40-05:00",
+      "created": "2026-08-07T09:00:40-05:00"
+    },
+    "principles/the-question-is-part-of-the-record": {
+      "updated": "2026-08-07T09:00:40-05:00",
+      "created": "2026-08-07T09:00:40-05:00"
+    },
+    "concepts/index": {
+      "updated": "2026-08-07T08:45:34-05:00",
+      "created": "2026-08-07T08:42:10-05:00"
+    },
+    "ontology/index": {
+      "updated": "2026-08-07T08:45:34-05:00",
+      "created": "2026-08-07T08:45:34-05:00"
+    },
+    "principles/index": {
+      "updated": "2026-08-07T08:45:34-05:00",
+      "created": "2026-08-07T08:45:34-05:00"
+    },
+    "reference/graphic-style": {
+      "updated": "2026-08-07T08:42:10-05:00",
+      "created": "2026-08-07T08:42:10-05:00"
+    },
+    "reference/index": {
+      "updated": "2026-08-07T08:42:10-05:00",
+      "created": "2026-08-07T08:42:10-05:00"
+    },
+    "reference/tools/index": {
+      "updated": "2026-08-07T08:42:10-05:00",
+      "created": "2026-08-07T08:42:10-05:00"
+    },
+    "reference/voice-rules": {
+      "updated": "2026-08-07T08:42:10-05:00",
+      "created": "2026-08-07T08:42:10-05:00"
+    }
+  }
 }

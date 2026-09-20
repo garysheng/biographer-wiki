@@ -21,7 +21,8 @@
     "check": "wiki check",
     "share": "wiki share",
     "icons": "wiki icons",
-    "optimize:images": "wiki optimize-images"
+    "optimize:images": "wiki optimize-images",
+    "prepare": "wiki install-hooks"
   },
   "dependencies": {
     "@docusaurus/core": "3.10.1",
