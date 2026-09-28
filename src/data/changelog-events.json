@@ -48,7 +48,7 @@
       "routePath": "/ontology/the-biographical-ontology",
       "section": "ontology",
       "title": "The Biographical Ontology",
-      "description": "Six shapes hold a captured life: profile, transcripts, characters, moments, the timeline, and letters. Everything else is a projection."
+      "description": "Seven shapes hold a captured life: profile, transcripts, characters, moments, the timeline, letters, and annotated media. Everything else is a projection."
     },
     {
       "id": "ontology/transcripts@716969013e28ee3ee74a1c4fc73c402f174d92c5",
@@ -68,7 +68,7 @@
       "routePath": "/principles/dont-overengineer-the-ontology",
       "section": "principles",
       "title": "Don't Overengineer the Ontology",
-      "description": "The ontology earns new shapes on the second instance, never the first. Six shapes cover a life; a taxonomy kills a collection."
+      "description": "The ontology earns new shapes on the second instance, never the first. Seven shapes cover a life; a taxonomy kills a collection."
     },
     {
       "id": "principles/the-question-is-part-of-the-record@716969013e28ee3ee74a1c4fc73c402f174d92c5",

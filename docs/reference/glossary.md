@@ -14,3 +14,4 @@ The Glossary is a fast-scanning index: every coined term on one line, linked to 
 
 Use this when you want to skim the surface area of the wiki without committing to a full read.
 
+- **[Retroactive Hyperdocumentation](/concepts/retroactive-hyperdocumentation)**: agentic biography as hyperdocumentation run backward, on someone else's behalf, rebuilding the annotated record they never kept from what survived.
