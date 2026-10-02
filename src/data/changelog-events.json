@@ -1,6 +1,46 @@
 {
   "changeEvents": [
     {
+      "id": "concepts/retroactive-hyperdocumentation@88bb25216821358047572aa27e4c4155f52565e4",
+      "type": "new",
+      "date": "2026-09-28T15:57:29-05:00",
+      "docKey": "concepts/retroactive-hyperdocumentation",
+      "routePath": "/concepts/retroactive-hyperdocumentation",
+      "section": "concepts",
+      "title": "Retroactive Hyperdocumentation",
+      "description": "Agentic biography is hyperdocumentation run backward, on someone else's behalf: reconstructing, from what survives, the annotated record a person never kept as they lived."
+    },
+    {
+      "id": "ontology/the-biographical-ontology@88bb25216821358047572aa27e4c4155f52565e4",
+      "type": "updated",
+      "date": "2026-09-28T15:57:29-05:00",
+      "docKey": "ontology/the-biographical-ontology",
+      "routePath": "/ontology/the-biographical-ontology",
+      "section": "ontology",
+      "title": "The Biographical Ontology",
+      "description": "Seven shapes hold a captured life: profile, transcripts, characters, moments, the timeline, letters, and annotated media. Everything else is a projection."
+    },
+    {
+      "id": "principles/dont-overengineer-the-ontology@88bb25216821358047572aa27e4c4155f52565e4",
+      "type": "updated",
+      "date": "2026-09-28T15:57:29-05:00",
+      "docKey": "principles/dont-overengineer-the-ontology",
+      "routePath": "/principles/dont-overengineer-the-ontology",
+      "section": "principles",
+      "title": "Don't Overengineer the Ontology",
+      "description": "The ontology earns new shapes on the second instance, never the first. Seven shapes cover a life; a taxonomy kills a collection."
+    },
+    {
+      "id": "reference/glossary@88bb25216821358047572aa27e4c4155f52565e4",
+      "type": "updated",
+      "date": "2026-09-28T15:57:29-05:00",
+      "docKey": "reference/glossary",
+      "routePath": "/reference/glossary",
+      "section": "reference",
+      "title": "Glossary",
+      "description": "One-line-per-term summary across the whole wiki."
+    },
+    {
       "id": "reference/glossary@d7bbb5497625817f8956986d32466ed8ae0f9316",
       "type": "updated",
       "date": "2026-08-29T02:42:53-04:00",
@@ -132,16 +172,28 @@
     }
   ],
   "pageDates": {
+    "concepts/retroactive-hyperdocumentation": {
+      "updated": "2026-09-28T15:57:29-05:00",
+      "created": "2026-09-28T15:57:29-05:00"
+    },
+    "ontology/the-biographical-ontology": {
+      "updated": "2026-09-28T15:57:29-05:00",
+      "created": "2026-08-07T09:00:40-05:00"
+    },
+    "principles/dont-overengineer-the-ontology": {
+      "updated": "2026-09-28T15:57:29-05:00",
+      "created": "2026-08-07T09:00:40-05:00"
+    },
+    "reference/glossary": {
+      "updated": "2026-09-28T15:57:29-05:00",
+      "created": "2026-08-07T08:42:10-05:00"
+    },
     "changelog": {
       "updated": "2026-09-15T09:51:30-05:00",
       "created": "2026-08-07T08:42:10-05:00"
     },
     "start-here/index": {
       "updated": "2026-09-15T09:51:30-05:00",
-      "created": "2026-08-07T08:42:10-05:00"
-    },
-    "reference/glossary": {
-      "updated": "2026-08-29T02:42:53-04:00",
       "created": "2026-08-07T08:42:10-05:00"
     },
     "concepts/context-collection": {
@@ -156,15 +208,7 @@
       "updated": "2026-08-07T09:00:40-05:00",
       "created": "2026-08-07T09:00:40-05:00"
     },
-    "ontology/the-biographical-ontology": {
-      "updated": "2026-08-07T09:00:40-05:00",
-      "created": "2026-08-07T09:00:40-05:00"
-    },
     "ontology/transcripts": {
-      "updated": "2026-08-07T09:00:40-05:00",
-      "created": "2026-08-07T09:00:40-05:00"
-    },
-    "principles/dont-overengineer-the-ontology": {
       "updated": "2026-08-07T09:00:40-05:00",
       "created": "2026-08-07T09:00:40-05:00"
     },
